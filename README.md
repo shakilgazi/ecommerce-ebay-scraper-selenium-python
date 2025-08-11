@@ -1,4 +1,4 @@
-# ecommerce-ebay-scraper-selenium-python
+# E-commerce-eBay-scraper-selenium-python
 
 A robust Python script using Selenium to scrape product data from eBay, including product name, price, delivery charge, and location, designed for e-commerce analysis. The script automates searches, handles pagination, and exports results to Excel and CSV formats, making it ideal for price monitoring, competitor analysis, or market research. It complements other data projects, such as news scraping, to provide holistic market insights.
 
